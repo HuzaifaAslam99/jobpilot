@@ -1,0 +1,45 @@
+[
+  {
+    "gmail_id": "demo-msg-001", "thread_id": "demo-thread-001",
+    "from_addr": "talent@northwind-analytics.example", "from_name": "Sara Malik",
+    "subject": "Re: Application - Backend Engineering Intern",
+    "received_at": "2026-09-22T09:14:00+05:00",
+    "body": "Hi Huzaifa,\n\nThanks for applying. The team liked your FastAPI project on GitHub. We'd like to schedule a 90-minute technical interview with two of our engineers.\n\nCould you share your availability for next Tuesday or Wednesday between 11am and 4pm PKT? Alternatively you can book a slot here: https://calendly.com/northwind-eng/tech-interview\n\nBest,\nSara Malik\nTalent Partner, Northwind Analytics"
+  },
+  {
+    "gmail_id": "demo-msg-002", "thread_id": "demo-thread-002",
+    "from_addr": "hiring@lumenhealth.example", "from_name": "Lumen Health AI Hiring",
+    "subject": "Re: Machine Learning Intern application",
+    "received_at": "2026-09-22T15:40:00+05:00",
+    "body": "Dear Huzaifa,\n\nThank you for your interest in the Machine Learning Intern role and for the time you put into your application.\n\nAfter careful review, we have decided to move forward with other candidates whose experience more closely matches our current needs. We will keep your details on file for future openings.\n\nWe wish you the best in your search.\n\nLumen Health AI Talent Team"
+  },
+  {
+    "gmail_id": "demo-msg-003", "thread_id": "demo-thread-003",
+    "from_addr": "jobs@brightpath.example", "from_name": "Omar Siddiqui",
+    "subject": "Re: Junior Software Engineer - Huzaifa",
+    "received_at": "2026-09-23T11:02:00+05:00",
+    "body": "Hello Huzaifa,\n\nThanks for reaching out. Before we can put you forward to the hiring manager, could you please send us a link to your portfolio or two projects you're proud of, your expected monthly stipend, and your earliest start date?\n\nRegards,\nOmar\nBrightpath Software"
+  },
+  {
+    "gmail_id": "demo-msg-004", "thread_id": "demo-thread-004",
+    "from_addr": "ayesha.khan@kestrel.example", "from_name": "Ayesha Khan",
+    "subject": "Automatic reply: Frontend Intern (React)",
+    "received_at": "2026-09-23T08:00:00+05:00",
+    "headers": {"Auto-Submitted": "auto-replied", "X-Autoreply": "yes"},
+    "body": "I am out of the office until 2 October with limited access to email. For urgent matters please contact office@kestrel.example."
+  },
+  {
+    "gmail_id": "demo-msg-005", "thread_id": "demo-thread-005",
+    "from_addr": "recruiting@orbitalfin.example", "from_name": "Bilal Ahmed",
+    "subject": "Re: Data Engineering Intern",
+    "received_at": "2026-09-24T13:30:00+05:00",
+    "body": "Hi Huzaifa,\n\nAppreciate you getting in touch. We're in the middle of a team reorganisation and the intern headcount is on hold for now. Your background is relevant for what we're planning in Q1 though, so let's reconnect then.\n\nBilal"
+  },
+  {
+    "gmail_id": "demo-msg-006", "thread_id": "demo-thread-006",
+    "from_addr": "hr@quantaretail.example", "from_name": "Quanta Retail HR",
+    "subject": "Re: Software Engineering Intern - Congratulations!",
+    "received_at": "2026-09-24T19:45:00+05:00",
+    "body": "Congratulations Huzaifa! You have been selected for the Software Engineering Intern position, no interview is needed.\n\nTo confirm your seat, please pay the onboarding fee of PKR 5,000 via Easypaisa within 24 hours and send a photo of your CNIC and your bank account details to our HR team on WhatsApp at +92 300 0000000.\n\nWelcome aboard!"
+  }
+]

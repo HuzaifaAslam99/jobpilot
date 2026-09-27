@@ -1,0 +1,13 @@
+# secrets: never commit these
+.env
+credentials.json
+token.json
+.streamlit/secrets.toml
+# your data (single-user DB, every web user's DB, the token encryption key)
+data/*.db
+data/*.db-wal
+data/*.db-shm
+data/users/
+data/.token_key
+__pycache__/
+.pytest_cache/

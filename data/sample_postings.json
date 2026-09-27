@@ -1,0 +1,34 @@
+[
+  {
+    "id": "northwind-backend",
+    "title": "Backend Engineering Intern (Python) - Northwind Analytics",
+    "company": "Northwind Analytics",
+    "website": "https://northwind-analytics.example",
+    "contact_email": "careers@northwind-analytics.example",
+    "text": "Northwind Analytics builds forecasting tools for mid-size retailers. Founded in 2017 and headquartered in Islamabad, our team of 40 ships a SaaS platform used by 200+ stores.\n\nWe are hiring a Backend Engineering Intern for a 3-month summer internship (June to August), hybrid, 3 days a week in our Blue Area office.\n\nWhat you'll do: build and test REST endpoints in Python/FastAPI, write SQL against PostgreSQL, and pair with a senior engineer on our ingestion pipeline.\n\nStipend: PKR 60,000 per month. Laptop provided.\n\nProcess: send your CV to careers@northwind-analytics.example. Shortlisted candidates do a 30-minute intro call, a 90-minute technical interview with two engineers, and a short chat with our CTO. Offers are made in writing within a week of the final round.\n\nMore about us: https://northwind-analytics.example/about"
+  },
+  {
+    "id": "global-remote-data-entry",
+    "title": "URGENT!!! Remote Data Entry - Earn $500 per day",
+    "company": "",
+    "website": "",
+    "contact_email": "globalremote.hr.team@gmail.com",
+    "text": "URGENT HIRING!!! WORK FROM HOME AND EARN up to $500 per day!!! No experience needed, students welcome. Simple copy-paste data entry, 2 hours a day.\n\nLimited slots, apply today only. You will be hired immediately, no interview required.\n\nTo start, contact our HR manager on Telegram @GlobalRemoteHR. Selected candidates must pay a one-time registration fee of $49 for the training kit (fully refundable after your first week).\n\nFor payroll setup please send a copy of your CNIC and your bank account details to globalremote.hr.team@gmail.com. Salary is paid weekly in USDT crypto.\n\nACT NOW!!!"
+  },
+  {
+    "id": "pixelforge-junior-dev",
+    "title": "Junior Full-Stack Developer - PixelForge Studio",
+    "company": "PixelForge Studio",
+    "website": "",
+    "contact_email": "pixelforge.hiring@gmail.com",
+    "text": "PixelForge Studio is a fast-growing creative agency looking for a Junior Full-Stack Developer (React + Node) to join our remote team.\n\nWe offer a competitive salary and growth opportunities in a friendly team.\n\nHow to apply: send your GitHub to pixelforge.hiring@gmail.com. Shortlisted applicants will complete an unpaid trial project lasting 2 weeks, building a feature for one of our live client websites. Successful candidates will be onboarded after the trial.\n\nAll communication after the first email happens on WhatsApp for speed. Immediate start."
+  },
+  {
+    "id": "lumen-ml-intern",
+    "title": "Machine Learning Intern (Remote) - Lumen Health AI",
+    "company": "Lumen Health AI",
+    "website": "https://lumenhealth.example",
+    "contact_email": "hiring@lumenhealth.example",
+    "text": "Lumen Health AI builds triage models for rural clinics across South Asia. Our company was founded in 2019 and is backed by two impact funds.\n\nRole: Machine Learning Intern, fully remote, 6 months, 30 hours/week.\n\nYou will: clean and label clinical text data, train and evaluate small transformer models with PyTorch, and write evaluation reports.\n\nCompensation: USD 400 per month, paid via bank transfer through our payroll provider.\n\nProcess: apply at https://lumenhealth.example/careers. We run a paid 3-hour take-home (compensated USD 40), then a 45-minute technical interview and a final interview with the ML lead. We never ask for fees or ID documents before a signed offer."
+  }
+]

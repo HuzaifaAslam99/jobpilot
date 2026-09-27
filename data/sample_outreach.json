@@ -1,0 +1,8 @@
+[
+  {"company": "Northwind Analytics", "role": "Backend Engineering Intern", "contact_email": "talent@northwind-analytics.example", "thread_id": "demo-thread-001", "posting_id": "northwind-backend"},
+  {"company": "Lumen Health AI", "role": "Machine Learning Intern", "contact_email": "hiring@lumenhealth.example", "thread_id": "demo-thread-002", "posting_id": "lumen-ml-intern"},
+  {"company": "Brightpath Software", "role": "Junior Software Engineer", "contact_email": "jobs@brightpath.example", "thread_id": "demo-thread-003"},
+  {"company": "Kestrel Systems", "role": "Frontend Intern (React)", "contact_email": "ayesha.khan@kestrel.example", "thread_id": "demo-thread-004"},
+  {"company": "Orbital Fintech", "role": "Data Engineering Intern", "contact_email": "recruiting@orbitalfin.example", "thread_id": "demo-thread-005"},
+  {"company": "Quanta Retail", "role": "Software Engineering Intern", "contact_email": "hr@quantaretail.example", "thread_id": "demo-thread-006"}
+]

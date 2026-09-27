@@ -1,0 +1,10 @@
+openai>=1.40            # used as a client for Groq/Gemini OpenAI-compatible endpoints
+python-dotenv>=1.0
+requests>=2.31
+rich>=13.7
+streamlit>=1.40
+pandas>=2.0
+google-api-python-client>=2.130
+google-auth-oauthlib>=1.2
+cryptography>=42     # encrypts each user's Google token (web app)
+pytest>=8.0
